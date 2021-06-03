@@ -58,7 +58,8 @@ resultados de las mediciones en la tabla 1.1.**
 
 **Tabla 1.1. Resultados obtenidos de voltaje y corriente, en cada elemento del circuito.**
 
-**1.5.1. Arme el circuito que se muestra en la figura 1.1.**
+**1.5.1. Arme el circuito que se muestra en la figura 1.1**
+
 
 **1.5.4. Verifique si se cumple la Ley de Kirchhoff de Corrientes en cada nodo, tomando
 con signo positivo las corrientes que entran al nodo y con signo negativo las que salen
