@@ -58,7 +58,15 @@ La ley de voltaje de Kirchhoff o segunda ley está basada en el principio de con
 ![](https://github.com/AndreaQuichimbo/InformeLaboratorio1/blob/main/WhatsApp%20Image%202021-06-03%20at%2018.17.43.jpeg)
 ![](https://github.com/AndreaQuichimbo/InformeLaboratorio1/blob/main/WhatsApp%20Image%202021-06-03%20at%2018.19.35.jpeg)
 
-**1.5.2. Mida el voltaje y corriente en cada uno de los elementos del cicuito. Anote los resultados de las mediciones en la tabla 1.1
+**1.5.2. Mida el voltaje y corriente en cada uno de los elementos del cicuito. Anote los resultados de las mediciones en la tabla 1.1**
+
+! [](https://github.com/AndreaQuichimbo/InformeLaboratorio1/blob/main/WhatsApp%20Image%202021-06-03%20at%2018.30.54%20(1).jpeg)
+
+*R3
+
+![](https://github.com/AndreaQuichimbo/InformeLaboratorio1/blob/main/WhatsApp%20Image%202021-06-03%20at%2018.30.54%20(2).jpeg)
+
+![](https://github.com/AndreaQuichimbo/InformeLaboratorio1/blob/main/WhatsApp%20Image%202021-06-03%20at%2018.30.54.jpeg)
 
 
 **Tabla 1.1. Resultados obtenidos de voltaje y corriente, en cada elemento del circuito.**
