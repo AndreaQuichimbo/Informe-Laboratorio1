@@ -53,13 +53,15 @@ La ley de voltaje de Kirchhoff o segunda ley está basada en el principio de con
 
 **1.5. PROCEDIMIENTO**
 
-**1.5.2. Mida el voltaje y corriente en cada uno de los elementos del circuito. Anote los
-resultados de las mediciones en la tabla 1.1.**
-
-**Tabla 1.1. Resultados obtenidos de voltaje y corriente, en cada elemento del circuito.**
-
 **1.5.1. Arme el circuito que se muestra en la figura 1.1**
 
+![](https://github.com/AndreaQuichimbo/InformeLaboratorio1/blob/main/WhatsApp%20Image%202021-06-03%20at%2018.17.43.jpeg)
+![](https://github.com/AndreaQuichimbo/InformeLaboratorio1/blob/main/WhatsApp%20Image%202021-06-03%20at%2018.19.35.jpeg)
+
+**1.5.2. Mida el voltaje y corriente en cada uno de los elementos del cicuito. Anote los resultados de las mediciones en la tabla 1.1
+
+
+**Tabla 1.1. Resultados obtenidos de voltaje y corriente, en cada elemento del circuito.**
 
 **1.5.4. Verifique si se cumple la Ley de Kirchhoff de Corrientes en cada nodo, tomando
 con signo positivo las corrientes que entran al nodo y con signo negativo las que salen
