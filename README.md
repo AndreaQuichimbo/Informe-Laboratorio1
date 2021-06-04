@@ -15,10 +15,6 @@ obtenidos en las tablas 1.1, 1.2. y 1.3.
 
 ![Ley de Kirchhoff](https://user-images.githubusercontent.com/84587293/120760986-57ce8900-c4da-11eb-86b7-ea6cdd5a7c96.png)
 
-**MATERIAL Y EQUIPO REQUERIDO**
-
-![image](https://user-images.githubusercontent.com/84430867/120531255-0de38700-c3a4-11eb-86cc-12aee4c8edc2.png)
-
 # 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
 **1.5.1. Arme el circuito que se muestra en la figura 1.1**
