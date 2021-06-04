@@ -2,8 +2,7 @@
 
 **1.1. OBJETIVO DE LA PRÁCTICA**
 
-Explicar y demostrar experimentalmente la Ley de Kirchhoff de Voltajes y la Ley de
-Kirchhoff de Corrientes.
+Realizar mediciones de intensidad de corriente y voltaje de un circuito dado y comparar los valores obtenidos experimentalmente con los datos obtenidos en los calculos realizados aplicando las leyes de kirchhoff
 
 **1.2. REQUISITOS PREVIOS.**
 
