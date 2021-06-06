@@ -17,7 +17,9 @@ obtenidos en las tablas 1.1, 1.2. y 1.3.
 
 # 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
-**1.5.1. Arme el circuito que se muestra en la figura 1.1**
+**1.5.1. Arme el circuito que se muestra en la figura 1.1
+
+![](https://github.com/AndreaQuichimbo/InformeLaboratorio1/blob/main/1.1.png)
 
 **1.5.2. Mida el voltaje y corriente en cada uno de los elementos del cicuito. Anote los resultados de las mediciones en la tabla 1.1**
 
