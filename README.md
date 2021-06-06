@@ -27,6 +27,12 @@ obtenidos en las tablas 1.1, 1.2. y 1.3.
 
 **1.5.2. Mida el voltaje y corriente en cada uno de los elementos del cicuito. Anote los resultados de las mediciones en la tabla 1.1**
 
+![](https://github.com/AndreaQuichimbo/InformeLaboratorio1/blob/main/6.1.png)
+![](https://github.com/AndreaQuichimbo/InformeLaboratorio1/blob/main/7.png)
+![](https://github.com/AndreaQuichimbo/InformeLaboratorio1/blob/main/8.png)
+![](https://github.com/AndreaQuichimbo/InformeLaboratorio1/blob/main/9.png)
+![](https://github.com/AndreaQuichimbo/InformeLaboratorio1/blob/main/10.png)
+
 **Tabla 1.1. Resultados obtenidos de voltaje y corriente, en cada elemento del circuito.**
 
 
