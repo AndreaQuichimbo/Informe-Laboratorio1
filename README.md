@@ -35,9 +35,15 @@ obtenidos en las tablas 1.1, 1.2. y 1.3.
 
 **Tabla 1.1. Resultados obtenidos de voltaje y corriente, en cada elemento del circuito.**
 
-
+![](https://github.com/AndreaQuichimbo/InformeLaboratorio1/blob/main/17.png)
 
 **Analisis Matematico Tabla 1.1**
+
+![](https://github.com/AndreaQuichimbo/InformeLaboratorio1/blob/main/11.png)
+![](https://github.com/AndreaQuichimbo/InformeLaboratorio1/blob/main/12.png)
+![](https://github.com/AndreaQuichimbo/InformeLaboratorio1/blob/main/13.png)
+![](https://github.com/AndreaQuichimbo/InformeLaboratorio1/blob/main/14.png)
+![](https://github.com/AndreaQuichimbo/InformeLaboratorio1/blob/main/16.png)
 
 **1.5.4. Verifique si se cumple la Ley de Kirchhoff de Corrientes en cada nodo, tomando
 con signo positivo las corrientes que entran al nodo y con signo negativo las que salen
