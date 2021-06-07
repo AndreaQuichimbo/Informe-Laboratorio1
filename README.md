@@ -45,6 +45,8 @@ obtenidos en las tablas 1.1, 1.2. y 1.3.
 ![](https://github.com/AndreaQuichimbo/InformeLaboratorio1/blob/main/14.png)
 ![](https://github.com/AndreaQuichimbo/InformeLaboratorio1/blob/main/16.png)
 
+**1.5.3. Verifique si se cumple la Ley de Kirchhoff de Voltajes en cada trayectoria cerrada, considerando las elevaciones de voltaje con signo positivo y las caídad de voltaje con signo negativo. Anote los resultados en la tabla 1.2.**
+
 **Tabla 1.2. Verificación de la LVK.**
 
 | **VOLTAJE** | **TRAYECTORIA 1** |            | **TRAYECTORIA 2** |       | **TRAYECTORIA 3**|         |
