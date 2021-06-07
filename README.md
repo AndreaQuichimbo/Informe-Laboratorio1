@@ -17,7 +17,7 @@ obtenidos en las tablas 1.1, 1.2. y 1.3.
 
 # 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
-**1.5.1. Arme el circuito que se muestra en la figura 1.**
+**3.5.1. Arme el circuito que se muestra en la figura 1.**
 
 ![](https://github.com/AndreaQuichimbo/InformeLaboratorio1/blob/main/1.1.png)
 ![](https://github.com/AndreaQuichimbo/InformeLaboratorio1/blob/main/2.png)
@@ -25,7 +25,7 @@ obtenidos en las tablas 1.1, 1.2. y 1.3.
 ![](https://github.com/AndreaQuichimbo/InformeLaboratorio1/blob/main/4.png)
 ![](https://github.com/AndreaQuichimbo/InformeLaboratorio1/blob/main/5.png)
 
-**1.5.2. Mida el voltaje y corriente en cada uno de los elementos del cicuito. Anote los resultados de las mediciones en la tabla 1.1**
+**3.5.2. Mida el voltaje y corriente en cada uno de los elementos del cicuito. Anote los resultados de las mediciones en la tabla 1.1**
 
 ![](https://github.com/AndreaQuichimbo/InformeLaboratorio1/blob/main/6.1.png)
 ![](https://github.com/AndreaQuichimbo/InformeLaboratorio1/blob/main/7.png)
@@ -45,7 +45,7 @@ obtenidos en las tablas 1.1, 1.2. y 1.3.
 ![](https://github.com/AndreaQuichimbo/InformeLaboratorio1/blob/main/14.png)
 ![](https://github.com/AndreaQuichimbo/InformeLaboratorio1/blob/main/16.png)
 
-**1.5.3. Verifique si se cumple la Ley de Kirchhoff de Voltajes en cada trayectoria cerrada, considerando las elevaciones de voltaje con signo positivo y las caídad de voltaje con signo negativo. Anote los resultados en la tabla 1.2.**
+**3.5.3. Verifique si se cumple la Ley de Kirchhoff de Voltajes en cada trayectoria cerrada, considerando las elevaciones de voltaje con signo positivo y las caídad de voltaje con signo negativo. Anote los resultados en la tabla 1.2.**
 
 **Tabla 1.2. Verificación de la LVK.**
 
@@ -60,7 +60,7 @@ obtenidos en las tablas 1.1, 1.2. y 1.3.
    | Vr5 (V)|  3.69 | 3.7 |   |    | 3.69 | 3.7 | 
    | *∑ V* | -0.007 | 0 | -1.53 | -1.53 | -0.037 | -0.01 |
 
-**1.5.4. Verifique si se cumple la Ley de Kirchhoff de Corrientes en cada nodo, tomando
+**3.5.4. Verifique si se cumple la Ley de Kirchhoff de Corrientes en cada nodo, tomando
 con signo positivo las corrientes que entran al nodo y con signo negativo las que salen
 del nodo. Anote los resultados en la tabla 1.3.**
 
@@ -77,7 +77,7 @@ del nodo. Anote los resultados en la tabla 1.3.**
    | Ir5 (V)|                    |           |              |           |              |           |    2.053     |    2.05   |    2.053     |    2.05   |
    | **∑ I** |          4.106    |    4.1    |     4.108    |    4.105  |      1.93    |     1.93  |      4.108   |   4.105   |    2.053     |    2.05   | 
 
-**1.5.5. Compare los resultados medidos con los valores obtenidos al analizar el circuito
+**3.5.5. Compare los resultados medidos con los valores obtenidos al analizar el circuito
 analíticamente y concluya al respecto.**
 
 # 5. VIDEO
