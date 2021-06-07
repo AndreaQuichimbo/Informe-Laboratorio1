@@ -45,6 +45,8 @@ obtenidos en las tablas 1.1, 1.2. y 1.3.
 ![](https://github.com/AndreaQuichimbo/InformeLaboratorio1/blob/main/14.png)
 ![](https://github.com/AndreaQuichimbo/InformeLaboratorio1/blob/main/16.png)
 
+**Tabla 1.2. Verificación de la LVK.**
+
 | **VOLTAJE** | **TRAYECTORIA 1** |            | **TRAYECTORIA 2** |       | **TRAYECTORIA 3**|         |
    | :---: | :---: | :---: | :---:| :---:| :---:| :---:| 
    |             | *Calculado* | *Medido|Calculado* | *Medido|Calculado* | *Medido*|
@@ -62,9 +64,6 @@ del nodo. Anote los resultados en la tabla 1.3.**
 
 **Tabla 1.3. Verificación de la LCK.**
 
-**1.5.5. Compare los resultados medidos con los valores obtenidos al analizar el circuito
-analíticamente y concluya al respecto.**
-
  | **CORRIENTE** | **NODO 1** |            | **NODO 2** |       | **NODO 3**|         | **NODO 4**|         | **NODO 5**|         |
    | :---: | :---: | :---: | :---:| :---:| :---:| :---:| :---:| :---:| :---:| :---:| 
    |             | **Calculado** | **Medido**|**Calculado** | **Medido**|**Calculado** | **Medido**|**Calculado** | **Medido**|**Calculado** | **Medido**|
@@ -75,6 +74,9 @@ analíticamente y concluya al respecto.**
    | Ir4 (V)|                    |           |              |           |    0.965     |    0.965  |   0.965      |    0.965  |              |           |
    | Ir5 (V)|                    |           |              |           |              |           |    2.053     |    2.05   |    2.053     |    2.05   |
    | **∑ I** |          4.106    |    4.1    |     4.108    |    4.105  |      1.93    |     1.93  |      4.108   |   4.105   |    2.053     |    2.05   | 
+
+**1.5.5. Compare los resultados medidos con los valores obtenidos al analizar el circuito
+analíticamente y concluya al respecto.**
 
 # 5. VIDEO
 
