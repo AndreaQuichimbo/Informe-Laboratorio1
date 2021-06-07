@@ -54,6 +54,17 @@ del nodo. Anote los resultados en la tabla 1.3.**
 **1.5.5. Compare los resultados medidos con los valores obtenidos al analizar el circuito
 analíticamente y concluya al respecto.**
 
+ | **CORRIENTE** | **NODO 1** |            | **NODO 2** |       | **NODO 3**|         | **NODO 4**|         | **NODO 5**|         |
+   | :---: | :---: | :---: | :---:| :---:| :---:| :---:| :---:| :---:| :---:| :---:| 
+   |             | **Calculado** | **Medido**|**Calculado** | **Medido**|**Calculado** | **Medido**|**Calculado** | **Medido**|**Calculado** | **Medido**|
+   | It (V)|            2.053    |    2.05   |              |           |              |           |              |           |              |           |
+   | Ir1 (V)|           2.053    |    2.05   |    2.053     |    2.05   |              |           |              |           |              |           | 
+   | Ir2 (V)|                    |           |    1.09      |   1.09    |              |           |    1.09      |   1.09    |              |           |
+   | Ir3 (V)|                    |           |   0.965      |    0.965  |    0.965     |    0.965  |              |           |              |           |
+   | Ir4 (V)|                    |           |              |           |    0.965     |    0.965  |   0.965      |    0.965  |              |           |
+   | Ir5 (V)|                    |           |              |           |              |           |    2.053     |    2.05   |    2.053     |    2.05   |
+   | **∑ I** |          4.106    |    4.1    |     4.108    |    4.105  |      1.93    |     1.93  |      4.108   |   4.105   |    2.053     |    2.05   | 
+
 # 5. VIDEO
 
 # 6. CONCLUSIONES
