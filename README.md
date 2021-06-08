@@ -69,13 +69,13 @@ del nodo. Anote los resultados en la tabla 1.3.**
  | **CORRIENTE** | **NODO 1** |            | **NODO 2** |       | **NODO 3**|         | **NODO 4**|         | **NODO 5**|         |
    | :---: | :---: | :---: | :---:| :---:| :---:| :---:| :---:| :---:| :---:| :---:| 
    |             | **Calculado** | **Medido**|**Calculado** | **Medido**|**Calculado** | **Medido**|**Calculado** | **Medido**|**Calculado** | **Medido**|
-   | It (V)|           - 2.053    |   - 2.05   |              |           |              |           |              |           |              |           |
+   | It (V)|           - 2.053    |   - 2.05   |              |           |              |           |              |           |    2.05          |      2.05     |
    | Ir1 (V)|           2.053    |    2.05   |    -2.053     |    -2.05   |              |           |              |           |              |           | 
    | Ir2 (V)|                    |           |    1.09      |   1.09    |              |           |    1.09      |   1.09    |              |           |
    | Ir3 (V)|                    |           |   0.965      |    0.96  |   - 0.965     |   - 0.965  |              |           |              |           |
    | Ir4 (V)|                    |           |              |           |    0.965     |    0.965  |   0.96      |    0.96  |              |           |
-   | Ir5 (V)|                    |           |              |           |              |           |    -2.053     |    2.05   |    2.053     |    2.05   |
-   | **∑ I** |          0    |    0  |     -0.002   |    0  |      0    |     0  |      0  |   0   |    0     |    2.05   |
+   | Ir5 (V)|                    |           |              |           |              |           |    -2.053     |    2.05   |    -2.053     |    -2.05   |
+   | **∑ I** |          0    |    0  |     -0.002   |    0  |      0    |     0  |      0  |   0   |    0     |    0   |
    
 
 **3.5.5. Compare los resultados medidos con los valores obtenidos al analizar el circuito
