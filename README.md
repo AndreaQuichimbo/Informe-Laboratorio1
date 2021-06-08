@@ -28,7 +28,7 @@ obtenidos en las tablas 1.1, 1.2. y 1.3.
 **3.5.2. Mida el voltaje y corriente en cada uno de los elementos del cicuito. Anote los resultados de las mediciones en la tabla 1.1**
 
 ![](https://github.com/AndreaQuichimbo/InformeLaboratorio1/blob/main/6.1.png)
-![](https://github.com/AndreaQuichimbo/InformeLaboratorio1/blob/main/7.png)
+![](https://github.com/AndreaQuichimbo/InformeLaboratorio1/blob/main/Captura%20de%20pantalla%202021-06-07%20203332.png)
 ![](https://github.com/AndreaQuichimbo/InformeLaboratorio1/blob/main/8.png)
 ![](https://github.com/AndreaQuichimbo/InformeLaboratorio1/blob/main/9.png)
 ![](https://github.com/AndreaQuichimbo/InformeLaboratorio1/blob/main/10.png)
