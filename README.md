@@ -33,9 +33,9 @@ obtenidos en las tablas 1.1, 1.2. y 1.3.
 ![](https://github.com/AndreaQuichimbo/InformeLaboratorio1/blob/main/9.png)
 ![](https://github.com/AndreaQuichimbo/InformeLaboratorio1/blob/main/10.png)
 
-**Tabla 1.1. Resultados obtenidos de voltaje y corriente, en cada elemento del circuito.**
+**Tabla 1.1. Resultados obtenidos de voltaje y corriente, en cada elemento del circuit**
 
-![](https://github.com/AndreaQuichimbo/InformeLaboratorio1/blob/main/17.png)
+![](https://github.com/AndreaQuichimbo/InformeLaboratorio1/blob/main/tabla.png)
 
 **Analisis Matematico Tabla 1.1**
 
