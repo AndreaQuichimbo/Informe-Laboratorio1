@@ -81,6 +81,8 @@ del nodo. Anote los resultados en la tabla 1.3.**
 **3.5.5. Compare los resultados medidos con los valores obtenidos al analizar el circuito
 analíticamente y concluya al respecto.**
 
+![](https://github.com/AndreaQuichimbo/InformeLaboratorio1/blob/main/error.png)
+
 # 5. VIDEON
 
 
