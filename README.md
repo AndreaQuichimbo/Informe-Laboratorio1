@@ -52,13 +52,13 @@ obtenidos en las tablas 1.1, 1.2. y 1.3.
 | **VOLTAJE** | **TRAYECTORIA 1** |            | **TRAYECTORIA 2** |       | **TRAYECTORIA 3**|         |
    | :---: | :---: | :---: | :---:| :---:| :---:| :---:| 
    |             | *Calculado* | *Medido|Calculado* | *Medido|Calculado* | *Medido*|
-   | Vt (V)|      -10|   -10 | 10 | 10 | 10 | 10 |
+   | Vt (V)|      -10|   -10 | -10 | -10 | -10 | -10 |
    | Vr1 (V)| 2.053 | 2.05 |    |   |  2.053 | 2.05 |
    | Vr2 (V)|  4.25 | 4.25 | 4.25 | 4.25 |
    | Vr3 (V)|       |    | 2.11 | 2.12 | 2.11 | 2.12 |
    | Vr4 (V)|       |    | 2.11 | 2.12 | 2.11 | 2.12 |
    | Vr5 (V)|  3.69 | 3.7 |   |    | 3.69 | 3.7 | 
-   | *∑ V* | -0.007 | 0 | -1.53 | -1.53 | -0.037 | -0.01 |
+   | *∑ V* | -0.007 | 0 | -1.53 | -1.51 | -0.037 | -0.01 |
 
 **3.5.4. Verifique si se cumple la Ley de Kirchhoff de Corrientes en cada nodo, tomando
 con signo positivo las corrientes que entran al nodo y con signo negativo las que salen
