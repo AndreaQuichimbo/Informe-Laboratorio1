@@ -75,13 +75,20 @@ del nodo. Anote los resultados en la tabla 1.3.**
    | Ir3 (V)|                    |           |   0.965      |    0.965  |    0.965     |    0.965  |              |           |              |           |
    | Ir4 (V)|                    |           |              |           |    0.965     |    0.965  |   0.965      |    0.965  |              |           |
    | Ir5 (V)|                    |           |              |           |              |           |    2.053     |    2.05   |    2.053     |    2.05   |
-   | **∑ I** |          4.106    |    4.1    |     4.108    |    4.105  |      1.93    |     1.93  |      4.108   |   4.105   |    2.053     |    2.05   | 
+   | **∑ I** |          4.106    |    4.1    |     4.108    |    4.105  |      1.93    |     1.93  |      4.108   |   4.105   |    2.053     |    2.05   |
+   
 
 **3.5.5. Compare los resultados medidos con los valores obtenidos al analizar el circuito
 analíticamente y concluya al respecto.**
 
-# 5. VIDEO
+# 5. VIDEON
+
 
 # 6. CONCLUSIONES
+
+Los calculos poseen un porcentaje de error bajo en cuanto a los voltajes y corrientes obtenidos analiticamente  con las medidas  adquiridas en la práctica sin embargo esto es debido a que en los calculos realizados gran cantidad de decimales.
+
+Se comprobo  mediante datos calculados y obtenidos en un simulador las leyes de Kirchhoff
+
 
 # 7. BIBLIOGRAFÍA
