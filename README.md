@@ -75,7 +75,7 @@ del nodo. Anote los resultados en la tabla 1.3.**
    | Ir3 (V)|                    |           |   0.965      |    0.96  |   - 0.965     |   - 0.965  |              |           |              |           |
    | Ir4 (V)|                    |           |              |           |    0.965     |    0.965  |   0.965      |    0.965  |              |           |
    | Ir5 (V)|                    |           |              |           |              |           |    2.053     |    2.05   |    2.053     |    2.05   |
-   | **∑ I** |          0    |    0  |     -0.002   |    0  |      1.93    |     0  |      0  |   4.105   |    2.053     |    2.05   |
+   | **∑ I** |          0    |    0  |     -0.002   |    0  |      0    |     0  |      0  |   4.105   |    2.053     |    2.05   |
    
 
 **3.5.5. Compare los resultados medidos con los valores obtenidos al analizar el circuito
