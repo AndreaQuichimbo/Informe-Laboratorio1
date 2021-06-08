@@ -92,3 +92,10 @@ Se comprobo  mediante datos calculados y obtenidos en un simulador las leyes de 
 
 
 # 7. BIBLIOGRAFÍA
+
+MecatrónicaLATAM. (s.f.). Obtenido de Leyes de Kirchhoff: https://www.mecatronicalatam.com/es/tutoriales/teoria/leyes-de-kirchhoff/
+
+ECURED. (s.f.). Obtenido de Leyes de Kirchhoff: https://www.ecured.cu/Leyes_de_Kirchhoff
+
+Ingeniería Mecafenix. (s.f.). Obtenido de La enciclopedia de la ingeniería: https://www.ingmecafenix.com/electronica/ley-de-corriente-de-kirchhoff/
+
