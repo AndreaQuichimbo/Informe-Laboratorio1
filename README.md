@@ -58,7 +58,7 @@ obtenidos en las tablas 1.1, 1.2. y 1.3.
    | Vr3 (V)|       |    | 2.11 | 2.12 |2.11  | 2.12 |
    | Vr4 (V)|       |    | 2.11 | 2.12 | 2.11 |2.12  |
    | Vr5 (V)|  3.69 | 3.7 |   |    | 3.69 | 3.7 | 
-   | *∑ V* | -0.001 | 0 | -0.03 | -0.01 | -0.04 | 0 |
+   | *∑ V* | -0.001 | 0 | -0.03 | -0.01 | -0.04 | -0.01 |
 
 **3.5.4. Verifique si se cumple la Ley de Kirchhoff de Corrientes en cada nodo, tomando
 con signo positivo las corrientes que entran al nodo y con signo negativo las que salen
