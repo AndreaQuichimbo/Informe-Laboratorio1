@@ -83,8 +83,9 @@ analíticamente y concluya al respecto.**
 
 ![](https://github.com/AndreaQuichimbo/InformeLaboratorio1/blob/main/error.png)
 
-# 5. VIDEON
+#  5. VIDEO
 
+https://www.youtube.com/watch?v=mfbD_f-Xhm8&t=3s
 
 # 6. CONCLUSIONES
 
