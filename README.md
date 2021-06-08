@@ -52,7 +52,7 @@ obtenidos en las tablas 1.1, 1.2. y 1.3.
 | **VOLTAJE** | **TRAYECTORIA 1** |            | **TRAYECTORIA 2** |       | **TRAYECTORIA 3**|         |
    | :---: | :---: | :---: | :---:| :---:| :---:| :---:| 
    |             | *Calculado* | *Medido|Calculado* | *Medido|Calculado* | *Medido*|
-   | Vt (V)|      10|   10 | 10 | 10 | 10 | 10 |
+   | Vt (V)|      -10|   -10 | 10 | 10 | 10 | 10 |
    | Vr1 (V)| 2.053 | 2.05 |    |   |  2.053 | 2.05 |
    | Vr2 (V)|  4.25 | 4.25 | 4.25 | 4.25 |
    | Vr3 (V)|       |    | 2.11 | 2.12 | 2.11 | 2.12 |
